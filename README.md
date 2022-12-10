@@ -18,3 +18,13 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     
    </div>
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: sdpeterson19@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/peterson-lopes-santos">
+      <img width="25" src="linkedin.svg">
+    </a>
+  </div>
+  
+    
